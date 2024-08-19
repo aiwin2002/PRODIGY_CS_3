@@ -32,7 +32,7 @@
 1. Navigate to the project directory:
    
     ```bash
-    cd SentinelPass
+    cd PRODIGY_CS_3
     ```
 
 2. Run the script:
